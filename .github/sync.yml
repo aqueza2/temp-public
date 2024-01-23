@@ -1,0 +1,4 @@
+aqueza2/temp-private@main:
+  - temp-private/my-app/src/
+aqueza2/temp-public@main:
+  - temp-public/my-app/src/
