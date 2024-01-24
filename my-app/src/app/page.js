@@ -8,6 +8,7 @@ export default function Home() {
         <p>
           Get started by editing&nbsp;
           <code className={styles.code}>src/app/page.js</code>
+          This is a newly edited file and changes are intended to be reflected.
         </p>
         <div>
           <a
